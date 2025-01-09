@@ -26,6 +26,34 @@
         "categoria": "Postre",
         "capa": "https://i.ytimg.com/vi/FB_p1ULnjBk/oardefault.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAIhC2AEB4gEKCBgQAhgGOAFAAQ==&rs=AOn4CLCsudkk0TVxdvmUOZHKgYyiHi92Og",
         "link": "https://www.youtube.com/embed/GUnW4_7xfEQ?si=uKWtTID-Q1DdkBwG"
+    },
+    {
+        "id": 5,
+        "titulo": "Tortilla Española",
+        "categoria": "Desayuno",
+        "capa": "https://i.ytimg.com/vi/ULle2vGte8k/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBUVSyYkd9Rm_ACcKDs_Qw12Zgs2A",
+        "link": "https://www.youtube.com/embed/ULle2vGte8k?si=uH0EBbeysB98Hbcy"
+    },
+    {
+        "id": 6,
+        "titulo": "Cordon Bleu de Pollo",
+        "categoria": "Comida",
+        "capa": "https://i.ytimg.com/vi/23I1iZajFlg/hqdefault.jpg?sqp=-oaymwEnCOADEI4CSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAAviSZitaYNo5Vp_zVFqYRekm1Hg",
+        "link": "https://www.youtube.com/embed/23I1iZajFlg?si=17LSnrXuF2o5u8Vn"
+    },
+    {
+        "id": 7,
+        "titulo": "Quesadillas con verduras",
+        "categoria": "Postre",
+        "capa": "https://i.ytimg.com/vi/qkYtmThemT0/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBAgi_INSdAbAuodMeqfSTISNhgMQ",
+        "link": "https://www.youtube.com/embed/qkYtmThemT0?si=henrkH9u6F1uaRfL"
+    },
+    {
+        "id": 8,
+        "titulo": "Postre de 4 ingredientes",
+        "categoria": "Postre",
+        "capa": "https://i.ytimg.com/vi/Y_zAbFVXkQM/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCVgbhvuX4uS7NrjFAjNfgpTc8PvA",
+        "link": "https://www.youtube.com/embed/Y_zAbFVXkQM?si=EQqDjKaLlQ_71mgO"
     }
 ]
  }
